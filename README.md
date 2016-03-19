@@ -1,1 +1,1 @@
-# nmis01
+Názov: Úvod do modelovania a simulácie náhodných procesov
